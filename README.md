@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoshi Rubin</h1>
 <h3 align="center">A passionate web developer from Israel</h3>
 
-- 💬 Ask me about **VueJS, Laravel and working remotely**
+- 💬 Ask me about **State Management, VueJS, Laravel and anything Web related**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
